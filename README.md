@@ -26,7 +26,7 @@
 <p align="center">
 	<a href="mailto:andres200148@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="mailto:nelsona2001@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" width = 70px/></a>
-	<a href="https://github.com/PandorasActor0"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/NelsonAIDev"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/573103477013"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/nelson-andres-delgado-machado/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
@@ -142,7 +142,7 @@
 
 ----	
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=PandorasActor0" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=NelsonAIDev" alt="GitHub Streak" /></p>
 
 </details>
   
@@ -151,9 +151,9 @@
 ----
 	
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=PandorasActor0&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact">
-	    <img alt="PandorasActor0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PandorasActor0&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PandorasActor0&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="PandorasActor0" height="230px"/>
+    <a href="https://github-readme-stats.vercel.app/api?username=NelsonAIDev&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact">
+	    <img alt="NelsonAIDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NelsonAIDev&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NelsonAIDev&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="NelsonAIDev" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -164,7 +164,7 @@
 
 ----
 	
-[![Nelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PandorasActor0&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=PandorasActor0&theme=react-dark)
+[![Nelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NelsonAIDev&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=NelsonAIDev&theme=react-dark)
 
  
 </details>
@@ -173,9 +173,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PandorasActor0&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="PandorasActor0" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NelsonAIDev&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="NelsonAIDev" /></a> </p>
 
-[![An image of @pandorasactor0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pandorasactor0)](https://holopin.io/@pandorasactor0)
+[![An image of @NelsonAIDev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/NelsonAIDev)](https://holopin.io/@NelsonAIDev)
 	
 </details>
 	
@@ -185,17 +185,17 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/PandorasActor0/LinkScribe">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PandorasActor0&repo=LinkScribe&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/NelsonAIDev/LinkScribe">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonAIDev&repo=LinkScribe&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/PandorasActor0/Human-pose-estimation">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PandorasActor0&repo=Human-pose-estimation&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/NelsonAIDev/Human-pose-estimation">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonAIDev&repo=Human-pose-estimation&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/PandorasActor0/Expense-tracker">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PandorasActor0&repo=Expense-tracker&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/NelsonAIDev/Expense-tracker">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonAIDev&repo=Expense-tracker&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/PandorasActor0/SpeechScriptResponder">
- 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=PandorasActor0&repo=SpeechScriptResponder&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/NelsonAIDev/SpeechScriptResponder">
+ 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonAIDev&repo=SpeechScriptResponder&theme=tokyonight" alt="GitHub Stats" />
 	</a>
   </p>
 </div>
@@ -207,8 +207,8 @@
 
 <p align="center">
 	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PandorasActor0/PandorasActor0/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PandorasActor0/PandorasActor0/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PandorasActor0/PandorasActor0/output/github-contribution-grid-snake.svg">
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NelsonAIDev/NelsonAIDev/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NelsonAIDev/NelsonAIDev/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NelsonAIDev/NelsonAIDev/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
