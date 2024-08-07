@@ -185,6 +185,9 @@
 	
 <div>
   <p align="center">
+	<a href="https://github.com/NelsonAIDev/Iris">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonAIDev&repo=Iristheme=tokyonight" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/NelsonAIDev/LinkScribe">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=NelsonAIDev&repo=LinkScribe&theme=tokyonight" alt="GitHub Stats" />
     	</a>
