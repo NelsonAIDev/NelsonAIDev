@@ -175,7 +175,7 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NelsonAIDev&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="@pandorasactor0" /></a> </p>
 
-[![An image of @NelsonAIDev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/NelsonAIDev)](https://holopin.io/@pandorasactor0)
+[![An image of @NelsonAIDev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@pandorasactor0)](https://holopin.io/@pandorasactor0)
 	
 </details>
 	
